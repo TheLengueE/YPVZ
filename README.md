@@ -7,7 +7,8 @@
 现在我已经知道了解决的方案,但由于现实中的一些原因我已经不打算继续编写了.如果你遇到了同样的问题，我推荐你学习一下设计模式中的桥接模式.
 # 图片
 ![image1](https://github.com/TheLengueE/YPVZ/blob/master/show_Image/iamge1.png)
-![image2](https://github.com/TheLengueE/YPVZ/blob/master/show_Image/iamge2.png)
+![image2](https://github.com/TheLengueE/YPVZ/blob/master/show_Image/image2.png)
+
 
 
 
