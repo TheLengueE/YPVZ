@@ -1,0 +1,86 @@
+<RCC>
+    <qresource prefix="/beginScene">
+        <file>res_YPVZ/beginScene/msedge_TGhjJroFoo.png</file>
+        <file>res_YPVZ/beginScene/msedge_ne08V8mnDs.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>res_YPVZ/sound/beginSceneMusic.MP3</file>
+        <file>res_YPVZ/sound/Boom.wav</file>
+        <file>res_YPVZ/sound/Eat.wav</file>
+        <file>res_YPVZ/sound/gameSceneMusic1.MP3</file>
+        <file>res_YPVZ/sound/peaHit.wav</file>
+        <file>res_YPVZ/sound/place.wav</file>
+        <file>res_YPVZ/sound/sun.wav</file>
+        <file>res_YPVZ/sound/ZombieComing.MP3</file>
+        <file>res_YPVZ/sound/begin.wav</file>
+        <file>res_YPVZ/sound/woggie.wav</file>
+        <file>res_YPVZ/sound/NotEnoughSun.wav</file>
+        <file>res_YPVZ/sound/Potato.wav</file>
+    </qresource>
+    <qresource prefix="/plant">
+        <file>res_YPVZ/plants/CherryBomb.gif</file>
+        <file>res_YPVZ/plants/fireTree.gif</file>
+        <file>res_YPVZ/plants/GatlingPea.gif</file>
+        <file>res_YPVZ/plants/IcePeaShooter.gif</file>
+        <file>res_YPVZ/plants/Peashooter.gif</file>
+        <file>res_YPVZ/plants/PotatoMine.gif</file>
+        <file>res_YPVZ/plants/PotatoMine_1.gif</file>
+        <file>res_YPVZ/plants/PotatoMine_mashed.gif</file>
+        <file>res_YPVZ/plants/Repeater.gif</file>
+        <file>res_YPVZ/plants/Spikerock.gif</file>
+        <file>res_YPVZ/plants/Spikeweed.gif</file>
+        <file>res_YPVZ/plants/squash1.gif</file>
+        <file>res_YPVZ/plants/squash2.gif</file>
+        <file>res_YPVZ/plants/SunFlower.gif</file>
+        <file>res_YPVZ/plants/TallNut.gif</file>
+        <file>res_YPVZ/plants/TallnutCracked1.gif</file>
+        <file>res_YPVZ/plants/TallnutCracked2.gif</file>
+        <file>res_YPVZ/plants/TwinSunflower.gif</file>
+        <file>res_YPVZ/plants/WallNut.gif</file>
+        <file>res_YPVZ/plants/Wallnut_cracked1.gif</file>
+        <file>res_YPVZ/plants/Wallnut_cracked2.gif</file>
+    </qresource>
+    <qresource prefix="/zombies">
+        <file>res_YPVZ/zombies/BucketheadZombie.gif</file>
+        <file>res_YPVZ/zombies/BucketheadZombieAttack.gif</file>
+        <file>res_YPVZ/zombies/ConeheadZombie.gif</file>
+        <file>res_YPVZ/zombies/ConeheadZombieAttack.gif</file>
+        <file>res_YPVZ/zombies/FlagZombie.gif</file>
+        <file>res_YPVZ/zombies/FlagZombieAttack.gif</file>
+        <file>res_YPVZ/zombies/HeadAttack0.gif</file>
+        <file>res_YPVZ/zombies/HeadWalk0.gif</file>
+        <file>res_YPVZ/zombies/HeadWalk1.gif</file>
+        <file>res_YPVZ/zombies/LostNewspaper.gif</file>
+        <file>res_YPVZ/zombies/Zombie.gif</file>
+        <file>res_YPVZ/zombies/ZombieAttack.gif</file>
+    </qresource>
+    <qresource prefix="/fly">
+        <file>res_YPVZ/flys/Boom.gif</file>
+        <file>res_YPVZ/flys/ExplosionSpudow.gif</file>
+        <file>res_YPVZ/flys/Pea.gif</file>
+        <file>res_YPVZ/flys/PeaFire.gif</file>
+        <file>res_YPVZ/flys/PeaHit.gif</file>
+        <file>res_YPVZ/flys/PeaIce.gif</file>
+        <file>res_YPVZ/flys/Sun.gif</file>
+    </qresource>
+    <qresource prefix="/gameScene">
+        <file>res_YPVZ/gameScene/background2.png</file>
+        <file>res_YPVZ/gameScene/plantBank.png</file>
+        <file>res_YPVZ/gameScene/sunBack.png</file>
+        <file>res_YPVZ/gameScene/Shovel.png</file>
+        <file>res_YPVZ/gameScene/shovel2.png</file>
+        <file>res_YPVZ/gameScene/ZombiesWon.png</file>
+        <file>res_YPVZ/gameScene/msedge_wsJv4ld1Jl.png</file>
+    </qresource>
+    <qresource prefix="/plantCard">
+        <file>res_YPVZ/plantCard/GatlingPea.png</file>
+        <file>res_YPVZ/plantCard/Peashooter.png</file>
+        <file>res_YPVZ/plantCard/PotatoMine.png</file>
+        <file>res_YPVZ/plantCard/Repeater.png</file>
+        <file>res_YPVZ/plantCard/SnowPea.png</file>
+        <file>res_YPVZ/plantCard/Squash.png</file>
+        <file>res_YPVZ/plantCard/SunFlower.png</file>
+        <file>res_YPVZ/plantCard/Torchwood.png</file>
+        <file>res_YPVZ/plantCard/WallNut.png</file>
+    </qresource>
+</RCC>
